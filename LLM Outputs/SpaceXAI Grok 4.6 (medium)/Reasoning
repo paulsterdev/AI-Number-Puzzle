@@ -1,0 +1,12 @@
+The puzzle is to find the missing number in this grid of numbers from 1 to 100.
+The puzzle is to find the missing number in this 11×9 grid that should contain all numbers from 1 to 100 exactly once.
+
+Looking at the grid you transcribed:
+
+    Rows 1–5 are consecutive: 1–9, 10–18, 19–27, 28–36 37–45.
+    Row 6: 46 47 48 49 50 52 53 54 55 — clearly skips 51.
+    Rows 7–11 continue consecutively: 56–64, 65–73, 74–82, 83–91, 92 93 94 95 96 97 98 99 100.
+
+Counting the numbers shown gives exactly 99 distinct values from 1 to 100. The only gap is 51, which is the single number missing from the complete 1–100 sequence.
+
+So the missing number is 51.

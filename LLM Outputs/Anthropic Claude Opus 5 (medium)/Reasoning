@@ -1,0 +1,1 @@
+Scanning row 7 of the grid, I notice it goes 46-50 then jumps to 52, skipping 51. Verifying the totals across all 11 rows confirms 99 numbers appear instead of 100, so 51 is indeed the missing number.

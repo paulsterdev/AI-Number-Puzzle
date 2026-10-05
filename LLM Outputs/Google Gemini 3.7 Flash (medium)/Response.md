@@ -1,0 +1,1 @@
+The missing number is **51** (located in the 6th row, between 50 and 52).

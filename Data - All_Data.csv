@@ -1,0 +1,26 @@
+subject_reasoning_used,puzzle_solved,latency_s,tokens_generated,speed_tokens_s,cost_dollars
+DeepSeek V4 Flash Vision Exp (low),y,5.3,507,95.4,0.00067
+DeepSeek V4 Flash Vision Exp (medium),y,6.2,611,99.3,0.00074
+DeepSeek V4 Flash Vision Exp (high),y,6.1,560,91.2,0.00071
+Kimi K3 (low),y,111.8,4358,39,0.0702
+Kimi K3 (high),y,24.7,740,30,0.0159
+Kimi K3 (max),y,63.2,2521,39.9,0.0426
+GLM 5.3 Flash (low),y,29.8,1284,43.1,0.00044
+GLM 5.3 Flash (high),y,13.8,400,29.1,0.00022
+GLM 5.3 Flash (max),y,33.3,1264,38,0.00054
+Qwen 3.8 Flash (medium),y,16.7,1189,26,0.00081
+Qwen 3.7 Plus (medium),y,28.6,1118,39,0.00195
+Qwen 3.8 Max (medium),y,62.2,3084,49.6,0.03786
+GPT 5.6 Luna (medium),y,2,117,57.3,0.0004
+GPT 5.6 Terra (medium),y,1.5,73,48.7,0.00351
+GPT 5.6 Sol (medium),y,1.9,107,56.1,0.00305
+Claude Sonnet 5 (medium),y,3.2,75,23.6,0.00554
+Claude Opus 5 (medium),y,5.7,337,59,0.0201
+Claude Fable 5 (medium),y,6.1,230,37.6,0.0348
+Grok 4.6 (low),y,13.9,736,53.1,0.00751
+Grok 4.6 (medium),y,39.4,2244,57,0.0167
+Grok 4.6 (high),y,25.7,1522,59.1,0.0122
+Gemini 3.7 Flash (medium),y,5.5,536,97.4,0.00328
+Gemini 3.1 Pro Preview (medium),y,6.5,672,104.1,0.0115
+Gemini 3.5 Flash Lite (medium),y,4.8,1026,212.5,0.00394
+human,y,12.7,0,0,0
